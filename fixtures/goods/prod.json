@@ -1,0 +1,170 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Tea table and three chairs",
+            "slug": "chajnyj-stolik-i-tri-stula",
+            "description": "",
+            "image": "",
+            "price": "150.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Tea table and two chairs",
+            "slug": "chajnyj-stolik-i-dva-stula",
+            "description": "",
+            "image": "",
+            "price": "93.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Bed",
+            "slug": "dvuhspalnaya-krovat",
+            "description": "",
+            "image": "",
+            "price": "670.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Kitchen table",
+            "slug": "kuhonnyj-stol-s-rakovinoj",
+            "description": "",
+            "image": "",
+            "price": "365.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Kitchen table 2",
+            "slug": "kuhonnyj-stol-s-vstrojkoj",
+            "description": "",
+            "image": "",
+            "price": "430.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Sofa",
+            "slug": "uglovoj-divan-dlya-gostinnoj",
+            "description": "",
+            "image": "",
+            "price": "610.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Table",
+            "slug": "prikrovatnyj-stolik",
+            "description": "",
+            "image": "",
+            "price": "55.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Sofa 2",
+            "slug": "divan-obyknovennyj",
+            "description": "",
+            "image": "",
+            "price": "190.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Chair",
+            "slug": "stul-ofisnyj",
+            "description": "",
+            "image": "",
+            "price": "30.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 1
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Plant",
+            "slug": "rastenie",
+            "description": "",
+            "image": "",
+            "price": "10.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Flower",
+            "slug": "cvetok-stilizirovannyj",
+            "description": "",
+            "image": "",
+            "price": "15.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Chair 2",
+            "slug": "prikrovatnyj-stolik-2",
+            "description": "",
+            "image": "",
+            "price": "25.00",
+            "discount": "0.00",
+            "quantity": 10,
+            "category": 2
+        }
+    }
+]
