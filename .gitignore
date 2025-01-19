@@ -1,14 +1,13 @@
-__pycache__/
-
-*.sqlite3
-env/
+#python stuff
 venv/
-.env
-.idea/*
+.pylintrc
+__pycache__/
+cache/
 
-static/
+#ide stuff
+.vscode
+.idea
 
+#django stuff
 db.sqlite3
 media/
-
-.vscode/

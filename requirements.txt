@@ -1,0 +1,11 @@
+accessify==0.3.1
+asgiref==3.8.1
+asttokens==3.0.0
+Django==5.1.4
+django-debug-toolbar==4.4.6
+ipykernel==6.29.5
+ipython==8.31.0
+pillow==11.1.0
+psycopg2==2.9.10
+sqlparse==0.5.3
+
